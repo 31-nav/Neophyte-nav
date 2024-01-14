@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neophyte-nav
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning python Basics
+- 👀 I’m interested in  programming
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
